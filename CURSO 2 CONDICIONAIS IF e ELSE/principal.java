@@ -1,7 +1,7 @@
 public class principal {
         public static void main(String[] args) {
             // String nome = "jao";
-            double salario = 5999.99;
+            double salario = 5999.9  9; 
           //  int numeroDependentes = 2;
             boolean insento = false;
 
